@@ -23,9 +23,11 @@ Go to http://localhost:3000
 Production
 
 # build for production and launch the server
-
+```
 $ npm run build
 $ npm start
+
+```
 Generate
 
 # generate a static project
